@@ -1,8 +1,0 @@
-https://secure.orangewebsite.com/login
-User = afarooqi2012@gmail.com
-Pass = askaccountancy786
-
-
-https://askaccountancyservices.co.uk/webmail
-ID = info@askaccountancyservices.co.uk
-Pass = OzQt=e&VKiq[
